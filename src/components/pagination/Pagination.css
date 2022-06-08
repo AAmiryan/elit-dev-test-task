@@ -1,0 +1,15 @@
+.container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.paginationContainer {
+  margin: 40px 0;
+}
+
+.searchStyle{
+    width: 600px;
+    margin: 20px 0;
+}

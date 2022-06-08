@@ -1,0 +1,11 @@
+.cardWraper {
+  padding: 20px 40px;
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black;
+  width: 600px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5px;
+  border-radius: 5px;
+}
